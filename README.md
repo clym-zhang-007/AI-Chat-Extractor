@@ -1,2 +1,3 @@
-# China-Map-Visualizer
-中国城市数据可视化
+# AI Chat Extractor
+
+AI Chat Extractor analyzes local AI chat transcripts and extracts structured, useful information from conversations.
